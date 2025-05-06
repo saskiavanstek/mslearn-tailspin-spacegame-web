@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Detronict/d9f08575-2497-4a91-8eb2-b02637b117e9/594a2c65-0191-4728-a85d-c6a2d07ded18/_apis/work/boardbadge/28281f38-436a-45e0-857a-4cba9e61e1aa)](https://dev.azure.com/Detronict/d9f08575-2497-4a91-8eb2-b02637b117e9/_boards/board/t/594a2c65-0191-4728-a85d-c6a2d07ded18/Microsoft.RequirementCategory)
 
 # Contributing
 
